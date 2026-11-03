@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Surjeet2205/Leetcodes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Surjeet2205/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Surjeet2205/Leetcodes/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/Surjeet2205/Leetcodes/tree/master/0520-detect-capital) |
 ## Bit Manipulation
 |  |
 | ------- |
