@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Surjeet2205/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Surjeet2205/Leetcodes/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Surjeet2205/Leetcodes/tree/master/0520-detect-capital) |
+| [2000-reverse-prefix-of-word](https://github.com/Surjeet2205/Leetcodes/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Surjeet2205/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Surjeet2205/Leetcodes/tree/master/0344-reverse-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Surjeet2205/Leetcodes/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Surjeet2205/Leetcodes/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Surjeet2205/Leetcodes/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
