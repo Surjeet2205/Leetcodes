@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Surjeet2205/Leetcodes/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Surjeet2205/Leetcodes/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Surjeet2205/Leetcodes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Surjeet2205/Leetcodes/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Surjeet2205/Leetcodes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Surjeet2205/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Surjeet2205/Leetcodes/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Surjeet2205/Leetcodes/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Surjeet2205/Leetcodes/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Surjeet2205/Leetcodes/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Surjeet2205/Leetcodes/tree/master/1108-defanging-an-ip-address) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Surjeet2205/Leetcodes/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Surjeet2205/Leetcodes/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
