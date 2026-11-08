@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Surjeet2205/Leetcodes/tree/master/0067-add-binary) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Surjeet2205/Leetcodes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Surjeet2205/Leetcodes/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Surjeet2205/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Surjeet2205/Leetcodes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
