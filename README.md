@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Surjeet2205/Leetcodes/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Surjeet2205/Leetcodes/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Surjeet2205/Leetcodes/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Surjeet2205/Leetcodes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
