@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Surjeet2205/Leetcodes/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Surjeet2205/Leetcodes/tree/master/0014-longest-common-prefix) |
 | [1480-running-sum-of-1d-array](https://github.com/Surjeet2205/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Surjeet2205/Leetcodes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Surjeet2205/Leetcodes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Surjeet2205/Leetcodes/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
