@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Surjeet2205/Leetcodes/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Surjeet2205/Leetcodes/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Surjeet2205/Leetcodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Surjeet2205/Leetcodes/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Surjeet2205/Leetcodes/tree/master/2000-reverse-prefix-of-word) |
 ## Array
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Surjeet2205/Leetcodes/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Surjeet2205/Leetcodes/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Surjeet2205/Leetcodes/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/Surjeet2205/Leetcodes/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Surjeet2205/Leetcodes/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Surjeet2205/Leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Surjeet2205/Leetcodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
