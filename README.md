@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Surjeet2205/Leetcodes/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Surjeet2205/Leetcodes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Surjeet2205/Leetcodes/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Surjeet2205/Leetcodes/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Surjeet2205/Leetcodes/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Surjeet2205/Leetcodes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Surjeet2205/Leetcodes/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/Surjeet2205/Leetcodes/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
 | ------- |
