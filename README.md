@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Surjeet2205/Leetcodes/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Surjeet2205/Leetcodes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Surjeet2205/Leetcodes/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Surjeet2205/Leetcodes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Surjeet2205/Leetcodes/tree/master/0412-fizz-buzz) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Surjeet2205/Leetcodes/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Surjeet2205/Leetcodes/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/Surjeet2205/Leetcodes/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/Surjeet2205/Leetcodes/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Surjeet2205/Leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Surjeet2205/Leetcodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
