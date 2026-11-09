@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Surjeet2205/Leetcodes/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Surjeet2205/Leetcodes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Surjeet2205/Leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/Surjeet2205/Leetcodes/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Surjeet2205/Leetcodes/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Surjeet2205/Leetcodes/tree/master/0014-longest-common-prefix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Surjeet2205/Leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Surjeet2205/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Surjeet2205/Leetcodes/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Surjeet2205/Leetcodes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Surjeet2205/Leetcodes/tree/master/1672-richest-customer-wealth) |
 ## Trie
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Surjeet2205/Leetcodes/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/Surjeet2205/Leetcodes/tree/master/1512-number-of-good-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Surjeet2205/Leetcodes/tree/master/1672-richest-customer-wealth) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Surjeet2205/Leetcodes/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
